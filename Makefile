@@ -8,12 +8,7 @@ INSTALL = /usr/bin/install
 ECHO = /bin/echo
 RM = /bin/rm
 PREFIX = /usr
-
-## Location of sed
-# Debian/Ubuntu/Mint
 SED = /bin/sed
-# Slackware
-# SED = $(PREFIX)/bin/sed
 
 ## The source material includes such things as kick messages which are
 ## customized when compiling the fortunes.
