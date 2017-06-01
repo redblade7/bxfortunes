@@ -4,7 +4,7 @@ BitchX Fortunes for Linux v1.0
 
 Created by redblade7, June 1, 2017 (v1.0)
 
-BitchX Fortunes for Linux provides almost 800 fortunes based on kick, quit, and other messages from BitchX, an IRC client popular in the late 90s/early 00s. The Makefile allows you to customize the fortunes, such as your IRC nickname, a kicked user's nickname, and such things as "year of the BitchX" and "official IRC client of the Olympic Games".
+BitchX Fortunes for Linux provides about 800 fortunes based on kick, quit, and other messages from BitchX, an IRC client popular in the late 90s/early 00s. The Makefile allows you to customize the fortunes, such as your IRC nickname, a kicked user's nickname, and such things as "year of the BitchX" and "official IRC client of the Olympic Games".
 
 By default, the value of $USER at the time of running make is used for both nickname and kicked user's nickname, with the 2012 Olympic Games used and 2017 as the year of the BitchX. Again you can change all this by editing the Makefile.
 
