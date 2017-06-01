@@ -1,4 +1,4 @@
-#### BitchX Fortunes for Linux v1.0 ####
+#### BitchX Fortunes for Linux v1.11 ####
 
 ## These values should be the same on all systems. 
 ## If you run into problems then make changes accordingly.
