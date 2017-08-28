@@ -1,10 +1,10 @@
 # bxfortunes
 
-BitchX Fortunes for Linux v1.21
+BitchX Fortunes for Linux v1.22
 
 Created by redblade7, June 1, 2017
 
-Last updated August 28, 2017 (v1.21)
+Last updated August 28, 2017 (v1.22)
 
 BitchX Fortunes for Linux provides about 800 fortunes based on kick, quit, and other messages from BitchX, an IRC client popular in the late 90s/early 00s. The Makefile allows you to customize the fortunes, such as your IRC nickname, a kicked user's nickname, and such things as "year of the BitchX" and "official IRC client of the Olympic Games".
 
@@ -42,7 +42,7 @@ NOTES:
 * Slackware Linux users: Slackware will not automatically choose fortunes from these files unless you add "bxfortunes-o" to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. Note that this will enable offensive fortunes for all the fortunes on that command line. You can also replace the whole line with "fortune -a" to include all installed fortunes, offensive and not.
 
 CHANGES:
-* v1.21 (2017-08-28): Re-created LICENSE file so as to have it appear in the Github Web interface.
+* v1.22 (2017-08-28): Re-created LICENSE file so as to have it appear in the Github Web interface.
 * v1.2 (2017-07-25): Per Github's recommendations, added CONTRIBUTING.md and CODE_OF_CONDUCT. Also, to make things less complicated and encourage use of these fortunes, I changed the license to New BSD License for everything.
 * v1.11 (2017-06-01): Updated version info on all files
 * v1.1 (2017-06-01): Removed unnecessary Makefile setting
