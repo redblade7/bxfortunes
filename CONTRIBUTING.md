@@ -9,3 +9,4 @@ All future additions to these files must be compatible with (and will be license
 Please report any technical problems using the Github Issue Tracker.
 
 These fortunes qualify as "offensive" and are installed as such.
+
