@@ -42,7 +42,7 @@ NOTES:
 * Slackware Linux users: Slackware will not automatically choose fortunes from these files unless you add "bxfortunes-o" to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. Note that this will enable offensive fortunes for all the fortunes on that command line. You can also replace the whole line with "fortune -a" to include all installed fortunes, offensive and not.
 
 CHANGES:
-* v1.3 (2017-09-12): Removed duplicates as found by cookietool.
+* v1.3 (2017-09-12): Removed duplicates found by cookietool.
 * v1.22 (2017-08-28): Re-created LICENSE file so as to have it appear in the Github Web interface.
 * v1.2 (2017-07-25): Per Github's recommendations, added CONTRIBUTING.md and CODE_OF_CONDUCT. Also, to make things less complicated and encourage use of these fortunes, I changed the license to New BSD License for everything.
 * v1.11 (2017-06-01): Updated version info on all files
